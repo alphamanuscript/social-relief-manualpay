@@ -1,7 +1,7 @@
-# Social Relief
+# SocialRelief ManualPay
 
-![Build status](https://github.com/alphamanuscript/social-relief/workflows/Build/badge.svg)
+![Build status](https://github.com/alphamanuscript/social-relief-manualpay/workflows/Build/badge.svg)
 
-A project to transparently distribute donations from individuals to people negatively impacted by Covid-19 in Kenya.
+Manual payment reconciler.
 
 
