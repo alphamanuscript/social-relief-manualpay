@@ -1,7 +1,5 @@
 # SocialRelief ManualPay
 
-![Build status](https://github.com/alphamanuscript/social-relief-manualpay/workflows/Build/badge.svg)
-
 This project keeps track of [SocialRelief](https://github.com/alphamanuscript/social-relief) transactions
 (e.g. donation distributions) that should be executed manually. SocialRelief uses it as a back-up
 payment provider for donation distributions.
