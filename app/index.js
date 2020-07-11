@@ -26,7 +26,7 @@ const notifier = new TransactionNotifier(WEBHOOK_URL);
  * @param {string} path 
  */
 function getFullPath(path) {
-  return `${BASE_PATH_SECRET}${path}`;
+  return `/${BASE_PATH_SECRET}${path}`;
 }
 
 const router = express.Router();
